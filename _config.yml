@@ -1,28 +1,29 @@
 # Site settings
-title:
-email:
+title: Felix Zhou
+email: felix990302@yahoo.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website under construction
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
+owner: Felix Zhou
+email: felix990302@yahoo.ca
+facebook_username: felix990302
+github_username: felix990302
+linkedin_username: felix-zhou
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
 copyright:
 
 # API settings
-google_api_key:
+google_api_key: AIzaSyCdZFrK6YoYsulKMaGSI0gnRoKGItdN-PY
+
+# google analytics
+google_analytics: UA-110973317-1
 
 # Build settings
 markdown: kramdown
