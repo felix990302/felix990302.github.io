@@ -1,8 +1,9 @@
 ---
 layout: about
+title: About
 ---
 
-![Me](/assets/pics/personal_website_pic.jpg)
+![Me](/assets/pics/personal_website_pic.jpg){: .img-center}
 
 Felix is a 1A student at the University of Waterloo
 aiming to completing a double degree in Computing and Financial Management and Computational Mathematics.
