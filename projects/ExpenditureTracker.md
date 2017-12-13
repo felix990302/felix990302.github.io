@@ -1,9 +1,11 @@
 ---
-layout: project
+layout: page
 title: Expenditure Tracker
 ---
 
 ![money](/assets/pics/money.jpg){: .img-center}
+
+[see me in action!](http://ec2-18-216-32-253.us-east-2.compute.amazonaws.com:8080/ExpenditureTracker_v0.2/)
 
 A web application which allows users to record and access their spendings.
 
@@ -13,7 +15,5 @@ An EC2 instance running CentOS 7 is the current server.
 
 &nbsp;
 &nbsp;
-
-[see me in action!](http://ec2-18-216-32-253.us-east-2.compute.amazonaws.com:8080/ExpenditureTracker_v0.2/)
 
 [source](https://github.com/felix990302/ExpenditureTracker_v0.2/tree/master/ExpenditureTracker_v0.2)

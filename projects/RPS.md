@@ -1,8 +1,11 @@
 ---
-layout: project
+layout: page
 title:  RPS Bot
 ---
 ![RPS](/assets/pics/RPS.png){: .img-center}
+
+&nbsp;
+&nbsp;
 
 # Try Me Out!
 [Windows](/assets/downloads/RPS.exe)

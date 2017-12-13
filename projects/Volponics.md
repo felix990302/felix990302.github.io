@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title:  Volponics Concept Business Plan
 ---
 ![RPS](/assets/pics/volponics.png){: .img-center}
